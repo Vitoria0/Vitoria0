@@ -1,9 +1,9 @@
-# :coffee: Seja bem vindo ao meu perfil
+# :coffee: Welcome to my profile
 
-- :pushpin: Moro em Santa Catarina - BR
-- :paperclip: Tenho 16 anos atualmente
-- :four_leaf_clover: Atualmente estou cursando o Ensino Médio
-- :notebook_with_decorative_cover: Procurando aprender diversas linguagens de programação diferentes
+- :pushpin: I live in Santa Catarina - BR.
+- :paperclip: I'm 16 years old
+- :four_leaf_clover: I am currently attending high school
+- :notebook_with_decorative_cover: Looking to learn several different programming languages
 
 ## Github status
 ![Maria Vitória's github stats](https://github-readme-stats.vercel.app/api?username=Vitoria0&show_icons=true&theme=midnight-purple)
