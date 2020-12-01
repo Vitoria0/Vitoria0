@@ -6,5 +6,8 @@
 - :notebook_with_decorative_cover: Procurando aprender diversas linguagens de programação diferentes
 
 ## Github status
-![Maria Vitória's github stats](https://github-readme-stats.vercel.app/api?username=Vitoria0&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria0&show_icons=true&theme=great-gatsby)
+![Maria Vitória's github stats](https://github-readme-stats.vercel.app/api?username=Vitoria0&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria0&show_icons=true&theme=midnight-purple)
+
+## My Skills
+<img alt="HTML5" width="50px" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" /> <img alt="CSS" width="50px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" /> <img alt="Python" width="50px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" /> <img alt="Mysql" width="50px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" />
