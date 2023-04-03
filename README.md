@@ -1,7 +1,7 @@
 # :coffee: Welcome to my profile
 
 - :pushpin: I live in Santa Catarina - BR.
-- :paperclip: I'm 16 years old
+- :paperclip: I'm 18 years old
 - :four_leaf_clover: I am currently attending high school
 - :notebook_with_decorative_cover: Looking to learn several different programming languages
 
