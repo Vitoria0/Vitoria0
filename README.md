@@ -20,7 +20,7 @@ Além da parte técnica, trago um forte background em **educação e liderança 
 
 ### Frontend & Mobile  
 - Angular | React | Flutter (Dart)  
-- TypeScript | JavaScript (ES6+) | HTML5 | SCSS | PrimeNG  
+- TypeScript | JavaScript (ES6+) | HTML5 | SCSS | PrimeNG | MUI | Angular Material  
 - RxJS | ngx-translate | micro frontends  
 
 ### Backend  
@@ -32,7 +32,7 @@ Além da parte técnica, trago um forte background em **educação e liderança 
 - Docker | AWS  
 
 ### Banco de dados  
-- SQL Server | PostgreSQL | MongoDB  
+- SQL Server | PostgreSQL | MongoDB | Firebase
 
 ---
 
