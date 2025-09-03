@@ -1,6 +1,6 @@
 # 👩‍💻 Maria Vitoria Machado  
 
-**Desenvolvedora Full Stack Pleno | Angular, .NET, AWS & Mobile | Tecnologia com Propósito**  
+**Desenvolvedora Full Stack Pleno | Angular, .NET, AWS & Mobile | Escalabilidade, Segurança e Performance**  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitoria%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-vit%C3%B3ria-machado-445b301ba/))  
 [![Gmail Badge](https://img.shields.io/badge/-vitoria.email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email)](mailto:vitmachadov@gmail.com)  
