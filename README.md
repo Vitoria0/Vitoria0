@@ -1,4 +1,4 @@
-# 👩‍💻 Vitoria Machado  
+# 👩‍💻 Maria Vitoria Machado  
 
 **Desenvolvedora Full Stack Pleno | Angular, .NET, AWS & Mobile | Tecnologia com Propósito**  
 
