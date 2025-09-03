@@ -1,19 +1,56 @@
-# :coffee: Welcome to My Profile!
+# 👩‍💻 Vitoria Machado  
 
-Hello! I’m a passionate developer and educator from Santa Catarina, Brazil, with a broad range of skills in programming. My journey spans several languages and frameworks, and I love sharing my knowledge with others.
+**Desenvolvedora Full Stack Pleno | Angular, .NET, AWS & Mobile | Tecnologia com Propósito**  
 
-## About Me
-- :pushpin: Based in Santa Catarina, Brazil.
-- :mortar_board: Balancing my time between being a high school student and a tech enthusiast.
-- :book: Dedicated to mastering various programming languages and technologies.
+[![Linkedin Badge](https://img.shields.io/badge/-Vitoria%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-vit%C3%B3ria-machado-445b301ba/))  
+[![Gmail Badge](https://img.shields.io/badge/-vitoria.email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email)](mailto:vitmachadov@gmail.com)  
 
-## My Skills
-I have experience with a diverse set of technologies, including:
+---
 
-- **Languages**: HTML, CSS, Python, Java, C#, PHP, Apex
-- **Frameworks/Libraries**: Angular, React, Flutter, Vue.js
-- **Platforms**: .NET
+## 🚀 Sobre mim  
+Sou **Desenvolvedora Full Stack Pleno** com mais de **5 anos de experiência**, construindo soluções que unem **interfaces modernas e acessíveis**, **APIs robustas** e **infraestrutura em nuvem**.  
 
-Whether it's building web applications, diving into data science, or crafting mobile apps, I’m always eager to take on new challenges and learn from each project.
+Minha jornada passa por **front-end (Angular, React, Flutter/Dart)**, **back-end (ASP.NET, Node.js, Python)** e **DevOps (AWS, Docker, CI/CD)**, sempre com foco em **qualidade, escalabilidade e impacto real**.  
 
-Feel free to explore my repositories to see what I’m working on and connect with me!
+Além da parte técnica, trago um forte background em **educação e liderança leve**, unindo **didática, organização e visão de negócio** para potencializar resultados em equipe.  
+
+---
+
+## 🛠️ Stack Principal  
+
+### Frontend & Mobile  
+- Angular | React | Flutter (Dart)  
+- TypeScript | JavaScript (ES6+) | HTML5 | SCSS | PrimeNG  
+- RxJS | ngx-translate | micro frontends  
+
+### Backend  
+- .NET (C#) | ASP.NET | Node.js | Python  
+- REST APIs | microservices  
+
+### DevOps & Cloud  
+- CI/CD (GitLab, GitHub Actions)  
+- Docker | AWS  
+
+### Banco de dados  
+- SQL Server | PostgreSQL | MongoDB  
+
+---
+
+## 📊 GitHub Stats  
+
+![Vitoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
+
+---
+
+## 🎯 Soft Skills  
+✅ Organização e proatividade  
+✅ Pensamento crítico e visão de negócio  
+✅ Didática e clareza na comunicação  
+✅ Trabalho em equipe e liderança leve  
+
+---
+
+💡 *Sou apaixonada por transformar **código em soluções reais com impacto positivo**. Se quiser trocar ideias, será um prazer!*  
+
+📬 **Entre em contato:** [LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-vit%C3%B3ria-machado-445b301ba/)) | [GitHub](https://github.com/Vitoria0) | [Email](mailto:vitmachadov@gmail.com)  
