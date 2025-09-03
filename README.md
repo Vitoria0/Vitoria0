@@ -39,6 +39,7 @@ Além da parte técnica, trago um forte background em **educação e liderança 
 ## 📊 GitHub Stats  
 
 ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitoria0&show_icons=true&hide=prs,issues&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria0&layout=compact&theme=radical)
 
 ---
 
