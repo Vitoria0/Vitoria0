@@ -1,56 +1,107 @@
-# 👩‍💻 Maria Vitoria Machado  
+# 👩‍💻 Maria Vitória Machado
 
-**Desenvolvedora Full Stack Pleno | Angular, .NET, AWS & Mobile | Escalabilidade, Segurança, Performance e Custo**  
+**Software Engineer | Full Stack Engineer | Arquitetura de Software, Cloud, Sistemas Distribuídos e Soluções Orientadas a Negócio**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vitoria%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-vit%C3%B3ria-machado-445b301ba/))  
-[![Gmail Badge](https://img.shields.io/badge/-vitoria.email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email)](mailto:vitmachadov@gmail.com)  
-
----
-
-## 🚀 Sobre mim  
-Sou **Desenvolvedora Full Stack Pleno** com mais de **5 anos de experiência**, construindo soluções que unem **interfaces modernas e acessíveis**, **APIs robustas** e **infraestrutura em nuvem**.  
-
-Minha jornada passa por **front-end (Angular, React, Flutter/Dart)**, **back-end (ASP.NET, Node.js, Python)** e **DevOps (AWS, Docker, CI/CD)**, sempre com foco em **qualidade, escalabilidade e impacto real**.  
-
-Além da parte técnica, trago um forte background em **educação e liderança leve**, unindo **didática, organização e visão de negócio** para potencializar resultados em equipe.  
+[![Linkedin Badge](https://img.shields.io/badge/-Maria%20Vitória%20Machado-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/maria-vit%C3%B3ria-machado-445b301ba/)
+[![Gmail Badge](https://img.shields.io/badge/-Contato-c14438?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:vitmachadov@gmail.com)
 
 ---
 
-## 🛠️ Stack Principal  
+## 🚀 Sobre mim
 
-### Frontend & Mobile  
-- Angular | React | Flutter (Dart)  
-- TypeScript | JavaScript (ES6+) | HTML5 | SCSS | PrimeNG | MUI | Angular Material  
-- RxJS | ngx-translate | micro frontends  
+Atuo há mais de 6 anos desenvolvendo software e construindo soluções que conectam tecnologia, inovação e objetivos de negócio.
 
-### Backend  
-- .NET (C#) | ASP.NET | Node.js | Python  
-- REST APIs | microservices  
+Ao longo da minha carreira, sempre busquei trabalhar próxima das áreas de negócio para compreender problemas reais antes de propor soluções técnicas. Acredito que o papel de uma Software Engineer não é defender uma tecnologia específica, mas identificar a melhor abordagem para cada cenário, equilibrando escalabilidade, custo, performance, manutenibilidade e velocidade de entrega.
 
-### DevOps & Cloud  
-- CI/CD (GitLab, GitHub Actions)  
-- Docker | AWS  
+Tenho experiência atuando em todas as camadas da aplicação, desde interfaces modernas até sistemas distribuídos, APIs, arquitetura de software e ambientes em nuvem. Minha atuação envolve análise de requisitos, desenho de soluções, implementação, revisão técnica e evolução contínua de plataformas.
 
-### Banco de dados  
-- SQL Server | PostgreSQL | MongoDB | Firebase
+Além do desenvolvimento, meu background como professora fortaleceu minhas habilidades de comunicação, mentoria e colaboração entre times técnicos e stakeholders.
 
 ---
 
-## 📊 GitHub Stats  
+## 🏗️ Áreas de Atuação
 
-![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitoria0&show_icons=true&hide=prs,issues&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria0&layout=compact&theme=radical)
+* Software Engineering
+* Arquitetura de Software
+* Sistemas Distribuídos
+* Desenvolvimento Full Stack
+* Cloud Computing
+* Integrações e APIs
+* Modernização de Sistemas
+* Escalabilidade e Performance
+* Engenharia de Plataforma
+* Soluções Orientadas a Negócio
 
 ---
 
-## 🎯 Soft Skills  
-✅ Organização e proatividade  
-✅ Pensamento crítico e visão de negócio  
-✅ Didática e clareza na comunicação  
-✅ Trabalho em equipe e liderança leve  
+## 🛠️ Tecnologias
+
+### Backend
+
+* C#
+* .NET / .NET Core
+* Java
+* Node.js
+* Python
+
+### Frontend & Mobile
+
+* Angular
+* React
+* TypeScript
+* JavaScript
+* Flutter
+
+### Arquitetura & Cloud
+
+* Microsserviços
+* Micro Frontends
+* REST APIs
+* AWS
+* Docker
+* CI/CD
+* GitHub Actions
+* GitLab CI
+
+### Bancos de Dados
+
+* SQL Server
+* PostgreSQL
+* MongoDB
+* Firebase
 
 ---
 
-💡 *Sou apaixonada por transformar **código em soluções reais com impacto positivo**. Se quiser trocar ideias, será um prazer!*  
+## 📊 GitHub Stats
 
-📬 **Entre em contato:** [LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-vit%C3%B3ria-machado-445b301ba/)) | [GitHub](https://github.com/Vitoria0) | [Email](mailto:vitmachadov@gmail.com)  
+![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitoria0\&show_icons=true\&hide=prs,issues\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria0\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 O que valorizo
+
+✅ Resolver problemas de negócio com tecnologia
+
+✅ Escolher a ferramenta certa para cada contexto
+
+✅ Arquiteturas sustentáveis e escaláveis
+
+✅ Código simples, legível e manutenível
+
+✅ Compartilhamento de conhecimento
+
+✅ Aprendizado contínuo e inovação
+
+---
+
+> "A melhor tecnologia não é a mais popular nem a que eu mais gosto de utilizar. É aquela que resolve o problema da forma mais eficiente para o negócio."
+
+---
+
+📫 **Vamos nos conectar**
+
+* LinkedIn: [www.linkedin.com/in/maria-vitória-machado-445b301ba](http://www.linkedin.com/in/vitoria0)
+* GitHub: github.com/Vitoria0
+* E-mail: [vitmachadov@gmail.com](mailto:vitmachadov@gmail.com)
