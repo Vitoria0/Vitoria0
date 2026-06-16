@@ -102,6 +102,6 @@ Além do desenvolvimento, meu background como professora fortaleceu minhas habil
 
 📫 **Vamos nos conectar**
 
-* LinkedIn: [www.linkedin.com/in/maria-vitória-machado-445b301ba](http://www.linkedin.com/in/vitoria0)
+* LinkedIn: [Maria Vitória Machado](http://www.linkedin.com/in/vitoria0)
 * GitHub: github.com/Vitoria0
 * E-mail: [vitmachadov@gmail.com](mailto:vitmachadov@gmail.com)
