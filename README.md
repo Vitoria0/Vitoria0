@@ -1,6 +1,6 @@
 # 👩‍💻 Maria Vitória Machado
 
-**Backend Specialist | .NET, AWS & SQL | Escalabilidade, Segurança, Custo e Performance**
+**Backend Developer | .NET, AWS & SQL | Escalabilidade, Segurança, Custo e Performance**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Maria%20Vitória%20Machado-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vitoria0/)
 [![Gmail Badge](https://img.shields.io/badge/Email-Contato-c14438?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vitmachadov@gmail.com)
