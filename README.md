@@ -17,7 +17,6 @@
 
 **Backend**
 
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat\&logo=csharp\&logoColor=512BD4)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat\&logo=dotnet\&logoColor=512BD4)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-333333?style=flat\&logo=dotnet\&logoColor=512BD4)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-333333?style=flat\&logo=dotnet\&logoColor=512BD4)
